@@ -1,1 +1,1 @@
-# Beginner--Friendly-Javascript-Project
+rockPaperScissorsGame
